@@ -1,0 +1,1 @@
+/usr/bin/c++  -mtune=generic  -std=gnu++11 -Wno-invalid-offsetof -march=native -msse3 -pthread -fdiagnostics-color=auto -g -DDEBUG -D_DEBUG   CMakeFiles/MyFurstProject.dir/Urho2DSprite.cpp.o  -o bin/MyFurstProject  /home/irbis/Urho3D/Urho3D-master/cmake-build-debug/lib/libUrho3D.a -ldl -lm -lrt -lGL 

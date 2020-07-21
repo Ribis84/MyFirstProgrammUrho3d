@@ -1,0 +1,7 @@
+/home/irbis/Urho3D/MyFirstProject/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/irbis/Urho3D/MyFirstProject/cmake-build-debug/CMakeFiles/install/local.dir
+/home/irbis/Urho3D/MyFirstProject/cmake-build-debug/CMakeFiles/MyFurstProject.dir
+/home/irbis/Urho3D/MyFirstProject/cmake-build-debug/CMakeFiles/install.dir
+/home/irbis/Urho3D/MyFirstProject/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/irbis/Urho3D/MyFirstProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/irbis/Urho3D/MyFirstProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

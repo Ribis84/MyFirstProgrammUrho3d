@@ -1,0 +1,85 @@
+[Tue Jul 21 10:48:25 2020] INFO: Opened log file Urho3D.log
+[Tue Jul 21 10:48:25 2020] INFO: Created 3 worker threads
+[Tue Jul 21 10:48:25 2020] INFO: Added resource path /home/irbis/Urho3D/MyFirstProject/cmake-build-debug/bin/Data/
+[Tue Jul 21 10:48:25 2020] INFO: Added resource path /home/irbis/Urho3D/MyFirstProject/cmake-build-debug/bin/CoreData/
+[Tue Jul 21 10:48:25 2020] INFO: Added resource path /home/irbis/Urho3D/MyFirstProject/cmake-build-debug/bin/GameData/
+[Tue Jul 21 10:48:25 2020] INFO: Adapter used VMware, Inc. llvmpipe (LLVM 10.0.0, 128 bits)
+[Tue Jul 21 10:48:25 2020] INFO: Set screen mode 1920x976 rate 60 Hz fullscreen monitor 0
+[Tue Jul 21 10:48:25 2020] INFO: Initialized input
+[Tue Jul 21 10:48:25 2020] INFO: Initialized user interface
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading resource Textures/Ramp.png
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading temporary resource Textures/Ramp.xml
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading resource Textures/Spot.png
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading temporary resource Textures/Spot.xml
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading resource Techniques/NoTexture.xml
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading resource RenderPaths/Forward.xml
+[Tue Jul 21 10:48:25 2020] INFO: Initialized renderer
+[Tue Jul 21 10:48:25 2020] INFO: Set audio mode 44100 Hz stereo interpolated
+[Tue Jul 21 10:48:25 2020] INFO: Initialized engine
+[Tue Jul 21 10:48:25 2020] ERROR: Could not find resource Models/Box.mdl
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading resource Materials/Env.xml
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading resource Techniques/DiffSkybox.xml
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading resource Textures/EnvBlurred.xml
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading temporary resource Textures/EnvBlurred_c00.png
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading temporary resource Textures/EnvBlurred_c01.png
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading temporary resource Textures/EnvBlurred_c02.png
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading temporary resource Textures/EnvBlurred_c03.png
+[Tue Jul 21 10:48:25 2020] DEBUG: Loading temporary resource Textures/EnvBlurred_c04.png
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading temporary resource Textures/EnvBlurred_c05.png
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Models/Ufo.mdl
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Materials/UfoBody.xml
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Techniques/NoTextureEnvCube.xml
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Materials/UfoGlass.xml
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Materials/UfoEngine.xml
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Materials/UfoLight.xml
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Techniques/NoTextureUnlitWithShadow.xml
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Models/Fly.ani
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Models/Pipe.mdl
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Materials/Pipe.xml
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Fonts/Ubuntu-BI.ttf
+[Tue Jul 21 10:48:26 2020] DEBUG: Font face Ubuntu-BI (40pt) has 1269 glyphs
+[Tue Jul 21 10:48:26 2020] DEBUG: Font face Ubuntu-BI (20pt) has 1269 glyphs
+[Tue Jul 21 10:48:26 2020] ERROR: Could not find resource PostProcess/FXAA3.xml
+[Tue Jul 21 10:48:26 2020] DEBUG: Reloading shaders
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Shaders/GLSL/Shadow.glsl
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Shaders/GLSL/LitSolid.glsl
+[Tue Jul 21 10:48:26 2020] DEBUG: Loading resource Shaders/GLSL/Unlit.glsl
+[Tue Jul 21 10:48:26 2020] DEBUG: Allocated scratch buffer with size 288
+[Tue Jul 21 10:48:26 2020] DEBUG: Compiled vertex shader LitSolid(ENVCUBEMAP INSTANCED)
+[Tue Jul 21 10:48:26 2020] DEBUG: Compiled pixel shader LitSolid(ENVCUBEMAP)
+[Tue Jul 21 10:48:26 2020] DEBUG: Linked vertex shader LitSolid(ENVCUBEMAP INSTANCED) and pixel shader LitSolid(ENVCUBEMAP)
+[Tue Jul 21 10:48:26 2020] DEBUG: Compiled vertex shader LitSolid(ENVCUBEMAP SKINNED)
+[Tue Jul 21 10:48:26 2020] DEBUG: Linked vertex shader LitSolid(ENVCUBEMAP SKINNED) and pixel shader LitSolid(ENVCUBEMAP)
+[Tue Jul 21 10:48:26 2020] WARNING: Shader Unlit(NOUV SKINNED) does not use the define NOUV
+[Tue Jul 21 10:48:26 2020] DEBUG: Compiled vertex shader Unlit(NOUV SKINNED)
+[Tue Jul 21 10:48:26 2020] DEBUG: Compiled pixel shader Unlit()
+[Tue Jul 21 10:48:26 2020] DEBUG: Linked vertex shader Unlit(NOUV SKINNED) and pixel shader Unlit()
+[Tue Jul 21 10:48:26 2020] DEBUG: Compiled vertex shader Shadow(INSTANCED)
+[Tue Jul 21 10:48:26 2020] DEBUG: Compiled pixel shader Shadow()
+[Tue Jul 21 10:48:26 2020] DEBUG: Linked vertex shader Shadow(INSTANCED) and pixel shader Shadow()
+[Tue Jul 21 10:48:26 2020] DEBUG: Compiled vertex shader Shadow(SKINNED)
+[Tue Jul 21 10:48:26 2020] DEBUG: Linked vertex shader Shadow(SKINNED) and pixel shader Shadow()
+[Tue Jul 21 10:48:27 2020] DEBUG: Compiled vertex shader LitSolid(DIRLIGHT INSTANCED PERPIXEL SHADOW)
+[Tue Jul 21 10:48:27 2020] DEBUG: Compiled pixel shader LitSolid(DIRLIGHT PCF_SHADOW PERPIXEL SHADOW SPECULAR)
+[Tue Jul 21 10:48:27 2020] DEBUG: Linked vertex shader LitSolid(DIRLIGHT INSTANCED PERPIXEL SHADOW) and pixel shader LitSolid(DIRLIGHT PCF_SHADOW PERPIXEL SHADOW SPECULAR)
+[Tue Jul 21 10:48:27 2020] DEBUG: Compiled vertex shader LitSolid(DIRLIGHT PERPIXEL SHADOW SKINNED)
+[Tue Jul 21 10:48:27 2020] DEBUG: Linked vertex shader LitSolid(DIRLIGHT PERPIXEL SHADOW SKINNED) and pixel shader LitSolid(DIRLIGHT PCF_SHADOW PERPIXEL SHADOW SPECULAR)
+[Tue Jul 21 10:48:27 2020] DEBUG: Loading resource Shaders/GLSL/Stencil.glsl
+[Tue Jul 21 10:48:27 2020] DEBUG: Compiled vertex shader Stencil()
+[Tue Jul 21 10:48:27 2020] DEBUG: Compiled pixel shader Stencil()
+[Tue Jul 21 10:48:27 2020] DEBUG: Linked vertex shader Stencil() and pixel shader Stencil()
+[Tue Jul 21 10:48:27 2020] DEBUG: Compiled vertex shader LitSolid(PERPIXEL POINTLIGHT SKINNED)
+[Tue Jul 21 10:48:27 2020] DEBUG: Compiled pixel shader LitSolid(PERPIXEL POINTLIGHT)
+[Tue Jul 21 10:48:27 2020] DEBUG: Linked vertex shader LitSolid(PERPIXEL POINTLIGHT SKINNED) and pixel shader LitSolid(PERPIXEL POINTLIGHT)
+[Tue Jul 21 10:48:27 2020] DEBUG: Loading resource Shaders/GLSL/Basic.glsl
+[Tue Jul 21 10:48:27 2020] DEBUG: Compiled vertex shader Basic(DIFFMAP VERTEXCOLOR)
+[Tue Jul 21 10:48:27 2020] DEBUG: Compiled pixel shader Basic(ALPHAMAP VERTEXCOLOR)
+[Tue Jul 21 10:48:27 2020] DEBUG: Linked vertex shader Basic(DIFFMAP VERTEXCOLOR) and pixel shader Basic(ALPHAMAP VERTEXCOLOR)
+[Tue Jul 21 10:48:29 2020] DEBUG: Resized scratch buffer to size 336
+[Tue Jul 21 10:48:30 2020] DEBUG: Loading resource Sounds/Explosion.ogg
+[Tue Jul 21 10:48:36 2020] DEBUG: Loading resource Sounds/Jump.wav
+[Tue Jul 21 10:48:38 2020] DEBUG: Resized scratch buffer to size 576
+[Tue Jul 21 10:48:39 2020] DEBUG: Compiled vertex shader LitSolid(PERPIXEL POINTLIGHT)
+[Tue Jul 21 10:48:39 2020] DEBUG: Linked vertex shader LitSolid(PERPIXEL POINTLIGHT) and pixel shader LitSolid(PERPIXEL POINTLIGHT)
+[Tue Jul 21 10:48:59 2020] DEBUG: Resized scratch buffer to size 624
+[Tue Jul 21 10:49:12 2020] DEBUG: Quitting SDL
